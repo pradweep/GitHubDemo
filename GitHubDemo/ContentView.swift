@@ -12,8 +12,8 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("Hello, World!")
-            Text("From development- xcode 12")
-            Text("Xcode 12")
+            Text("From - xcode 12")
+            Text("conflict")
         }
     }
 }
