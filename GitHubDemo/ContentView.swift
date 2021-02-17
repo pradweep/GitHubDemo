@@ -11,9 +11,9 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            Text("Xcode 11")
             Text("Hello, World!")
-            Text("From - xcode 12")
-            Text("conflict")
+            Text("From - xcode 11")
         }
     }
 }
